@@ -3,6 +3,7 @@
 This is a simple and interactive chatbot built using Streamlit and powered by Google's Gemini API. It allows you to have conversational interactions with the Gemini Pro model directly from your web browser.
 
 For GitLab instance , this is the repo link: https://github.com/lhcee3/Chatbot-Streamlit
+
 and this is the deployed link: https://shortspin.streamlit.app/
 
 
