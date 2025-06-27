@@ -7,7 +7,7 @@ For GitLab instance , this is the repo link: https://github.com/lhcee3/Chatbot-S
 and this is the deployed link: https://shortspin.streamlit.app/
 
 
-## ✨ Features
+## Features
 
 * **Interactive Chat Interface:** A user-friendly chat window powered by Streamlit.
 
@@ -19,7 +19,7 @@ and this is the deployed link: https://shortspin.streamlit.app/
 
 * **No API Key in Code:** Your API key is entered securely in the Streamlit app itself.
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to set up and run the Gemini Chatbot on your local machine and for deployment.
 
